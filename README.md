@@ -9,4 +9,4 @@ The goal of the project was to develop a motion monitoring system using the ESP3
 - The ESP32 processes this data and sends it via WiFi. 
 - Finally, the data is stored on a server for later analysis.
 
-<a href="[https://drive.google.com/drive/home" target="_blank](https://drive.google.com/file/d/1QuLZUw48l_sYxhaVKpKJwYd6wL98XJlm/view?usp=sharing)">Here</a> is the link to final project report.
+<a href="https://drive.google.com/file/d/1QuLZUw48l_sYxhaVKpKJwYd6wL98XJlm/view?usp=sharing">Here</a> is the link to final project report.
